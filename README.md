@@ -1,2 +1,2 @@
-# TeamNM3-Movie-Recommendation-2022
-Repository for the TeamNM3 -  2201ACDS_NM3 in the Explore Datascience Accelerator program
+# Team-NM-3
+This is the repository for Team NM 3. Contained within are our codes and data used to build a movie recommendation system.
